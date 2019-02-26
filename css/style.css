@@ -22,7 +22,7 @@ body{
 #wrapper1{
     width:899.99px;
     height:auto;
-    margin:auto;
+    margin:auto auto 10px auto;
     background:#fff;
 }
 
