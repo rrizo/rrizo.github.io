@@ -19,19 +19,13 @@ body{
     background:#fff;
 }
 
-#wrappercontact{
+#wrapper1{
     width:899.99px;
     height:auto;
     margin:auto;
     padding-bottom: 8px;
     background:#fff;
 }
-
-#wrapperhome{
-    width:899.99px;
-    height:300;
-    margin:auto;
-    background:#fff;
 
 /*header code*/
 #header{
